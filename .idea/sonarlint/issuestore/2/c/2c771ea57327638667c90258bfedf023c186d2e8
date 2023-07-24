@@ -1,0 +1,12 @@
+
+/c:S959"Remove this #undef directive.(´äúæ
+‚c:S819;"kcall to undeclared function 'LoadLibraryW'; ISO C99 and later do not support implicit function declarations(éøÈŠÿÿÿÿÿ
+Fc:S954!"4Move this #include directive to the top of the file.(µ¦Å
+Fc:S5955¿"-Declare the variable "index" inside the loop.(’–×Ÿıÿÿÿÿ
+Ac:S5955Ñ"-Declare the variable "index" inside the loop.(ü¾ÆÌ
+4c:S1905Ò"Remove this redundant cast.(ï²š ÿÿÿÿÿ
+Ac:S5955ö"-Declare the variable "index" inside the loop.(ü¾ÆÌ
+mc:S3776Ï"TRefactor this function to reduce its Cognitive Complexity from 45 to the 25 allowed.(©Ëéàøÿÿÿÿ
+Bc:S5955â")Declare the variable "i" inside the loop.(¤Šï®şÿÿÿÿ
+Ic:S1659Õ"0Define each identifier in a dedicated statement.(¶ï·äıÿÿÿÿ
+[c:S3519ì"GOut of bound memory access (access exceeds upper limit of memory block)(š™­ù
